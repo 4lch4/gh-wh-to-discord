@@ -1,6 +1,6 @@
 {
   "name": "@4lch4/gh-wh-to-discord",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A lightweight utility for parsing the data received from GitHub.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

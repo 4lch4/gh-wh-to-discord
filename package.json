@@ -16,7 +16,7 @@
   },
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "standard": "^14.3.3",
-    "webhook-discord": "^3.7.3"
+    "standard": "14.3.3",
+    "webhook-discord": "3.7.3"
   }
 }

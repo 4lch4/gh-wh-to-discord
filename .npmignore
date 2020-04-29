@@ -1,1 +1,5 @@
 src/*
+.gitignore
+renovate.json
+tsconfig.json
+azure-pipelines.js

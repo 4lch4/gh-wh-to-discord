@@ -1,0 +1,22 @@
+{
+  "name": "@4lch4/gh-wh-to-discord",
+  "version": "0.0.3",
+  "description": "A lightweight utility for parsing the data received from GitHub.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "4lch4",
+    "email": "hello@4lch4.com",
+    "url": "https://4lch4.com/"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "standard": "^14.3.3",
+    "webhook-discord": "^3.7.3"
+  }
+}
